@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd
-	name = Miranda Frudd mirandafrudd@outlook.com
+	email = mirandafrudd@outlook.com
+	name = Miranda Frudd
